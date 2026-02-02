@@ -8,6 +8,8 @@
   <h1>Game Overview</h1>
 </div>
 
+<br />
+
 <div align="Left">
   <p>
 
