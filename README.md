@@ -7,7 +7,7 @@
 <div align="Left">
   <p>
 
-<strong>🌿</strong> Welcome to the World of Elfvian
+<strong font="larger">🌿</strong> Welcome to the World of Elfvian
 
 Step into Elfvian, a vast enchanted realm where survival depends on skill, courage, and magic. Battle dangerous monsters that roam ancient forests, ruined kingdoms, and           hidden realms as you fight to stay alive and uncover the secrets of this mystical world.
 
