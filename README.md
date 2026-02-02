@@ -6,7 +6,7 @@
 
 <div align="center">
   <H2>Overview</H2>
-  <p>
+  <p align="left">
 
 🌿 Welcome to the World of Elfvian
 
