@@ -13,5 +13,5 @@
 
 <div align="center">
   <H2>Gameplay</H2>
-  <img src="CoverImages/ElfvianPosterPart1.png">
+  <img src="CoverImages/ElfvianBackPoster.png">
 </div>
