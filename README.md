@@ -11,6 +11,7 @@
   </p>
 </div>
 
+<br />
 <div align="center">
   <H2>Gameplay</H2>
   <img src="CoverImages/ElfvianBackPoster.png" width="500" height="750">
