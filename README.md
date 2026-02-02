@@ -1,8 +1,5 @@
 <br />
 
-
-  <img src="CoverImages/ElfvianPoster.png" alt="Elfvian Poster" width="600"/>
-
 ![Poster](CoverImages/ElfvianPoster.png) 
 
 <br />
