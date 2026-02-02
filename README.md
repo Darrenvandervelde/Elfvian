@@ -1,7 +1,7 @@
 ![ElfvianPoster](CoverImages/ElfvianPoster.png)
 
 <div align="center">
-  <h1 style="color:darkgreen;">Elfvian</h1>
+  <h1>Elfvian</h1>
 </div>
 
 <div align="center">
