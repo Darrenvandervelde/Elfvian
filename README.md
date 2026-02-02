@@ -1,6 +1,8 @@
 <br />
 
-![ElfvianPoster](CoverImages/ElfvianPoster.png)
+<p align="center">
+  <img src="CoverImages/ElfvianPoster.png" alt="Elfvian Poster" width="600"/>
+</p>
 
 <br />
 
@@ -10,29 +12,46 @@
 
 <br />
 
-<div align="Left">
+<div align="left">
   <p>
+🌿 <strong>Welcome to the World of Elfvian</strong> 🌿
+  </p>
 
-🌿<strong> Welcome to the World of Elfvian</strong>
+  <p>
+Step into <strong>Elfvian</strong>, a vast enchanted realm where survival depends on skill, courage, and magic. Battle dangerous monsters roaming ancient forests, ruined kingdoms, and hidden realms as you fight to stay alive and uncover the secrets of this mystical world.
+  </p>
 
-Step into Elfvian, a vast enchanted realm where survival depends on skill, courage, and magic. Battle dangerous monsters that roam ancient forests, ruined kingdoms, and           hidden realms as you fight to stay alive and uncover the secrets of this mystical world.
-
+  <p>
 Collect rare magical artifacts, enchanted weapons, and ancient spells scattered across the land. Each discovery strengthens your abilities and shapes your journey.
+  </p>
 
-Meet a cast of exciting NPCs, each with unique personalities, stories, and interactive choices. Your decisions influence alliances, unlock hidden quests, and change how the world responds to you.
+  <p>
+Meet a cast of exciting <strong>NPCs</strong>, each with unique personalities, stories, and interactive choices. Your decisions influence alliances, unlock hidden quests, and change how the world responds to you.
+  </p>
 
-In Elfvian, every path is a choice, every battle is a test, and every legend begins with you.
-
-Will you survive… or become part of the world’s forgotten history?  🌿
-  
+  <p>
+In Elfvian, every path is a choice, every battle is a test, and every legend begins with you.  
+<strong>Will you survive… or become part of the world’s forgotten history?</strong>
   </p>
 </div>
 
 <br />
+
 <div align="center">
-  <H2>Gameplay</H2>
-  <img src="CoverImages/ElfvianBackPoster.png" width="400" height="750">
-  <img src="CoverImages/ElfvianPosterPart1.png" width="400" height="750">
+  <h2>Gameplay</h2>
+  <p>
+    Explore the magic, fight epic battles, and uncover hidden secrets.
+  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="CoverImages/ElfvianBackPoster.png" alt="Elfvian Gameplay Poster" width="400" height="750">
+      </td>
+      <td>
+        <img src="CoverImages/ElfvianPosterPart1.png" alt="Elfvian Gameplay Poster Part 1" width="400" height="750">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
