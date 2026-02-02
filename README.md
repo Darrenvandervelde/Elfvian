@@ -1,4 +1,8 @@
+<br />
+
 ![ElfvianPoster](CoverImages/ElfvianPoster.png)
+
+<br />
 
 <div align="center">
   <h1>Game Overview</h1>
@@ -22,13 +26,11 @@ Will you survive… or become part of the world’s forgotten history?  🌿
   </p>
 </div>
 
-
-
-
-
 <br />
 <div align="center">
   <H2>Gameplay</H2>
   <img src="CoverImages/ElfvianBackPoster.png" width="400" height="750">
   <img src="CoverImages/ElfvianPosterPart1.png" width="400" height="750">
 </div>
+
+<br />
